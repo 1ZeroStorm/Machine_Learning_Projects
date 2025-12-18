@@ -1,4 +1,4 @@
-# Linear Logistic Implementation (Smart AI & Tech Competition for a Rising Indonesia 2025 - Gold award)
+# Linear Regression Implementation (Smart AI & Tech Competition for a Rising Indonesia 2025 - Gold award)
 a linear regression model to estimate the likelihood of a student passing the admission selection for XYZ University. The goal is to use the information provided in the dataset to make accurate predictions about a student's chances based on their academic background and demographic factors.
 
 ## Features
