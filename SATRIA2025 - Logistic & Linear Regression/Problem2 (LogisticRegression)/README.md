@@ -1,5 +1,5 @@
 # Linear Logistic Implementation (Smart AI & Tech Competition for a Rising Indonesia 2025 - Gold award)
-Linear Logistic Implementation predict the age of abalones based on various characteristics. 
+Linear Logistic Implementation: predict the age of abalones based on various characteristics. 
 Abalones, a type of marine mollusk, have been studied extensively for their biological traits and growth patterns, 
 making them an ideal subject for such predictive modeling tasks.
 
